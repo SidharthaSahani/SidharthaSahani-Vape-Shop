@@ -27,6 +27,9 @@ import contact_img from './contact_img.png'
 import razorpay_logo from './razorpay_logo.png'
 import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
+import esewa from './esewa.png'
+import khalti from './khalti.png'
+import fonepay from './fonepay.png'
 
 export const assets = {
     banner,
@@ -47,7 +50,10 @@ export const assets = {
     contact_img,
     razorpay_logo,
     stripe_logo,
-    cross_icon
+    cross_icon,
+    esewa,
+    khalti,
+    fonepay
 }
 
 export const products = [
